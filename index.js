@@ -17,11 +17,3 @@ for(let result of shows)
    document.body.append(img)
 }
 }
-const clearImages=(shows)=>{
-    for(let result of shows)
-    {
-        const img=document.createElement('IMG')
-       img.src=''
-       document.body.append(img)
-    }
-    }
