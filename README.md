@@ -1,3 +1,3 @@
 # TvShowSearchApp
-it is a simple tv show search app
-it is done using tv-maze api
+It is a simple Tv Show Search app.
+It is done using Tv-maze API
